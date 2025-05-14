@@ -1,0 +1,21 @@
+/* 7b */
+.square {
+    width: 100px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* 7c */
+  .circle {
+    display: flex;
+  }
+  .circle-image {
+    object-fit: cover;
+    clip-path: circle(34%);
+  }
+  
+  /* 7g/ */
+  .vertical {
+    display: flex;
+  }
